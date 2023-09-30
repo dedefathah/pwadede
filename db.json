@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Grenadier, purple","category":"Khaki"},
+{"id":2,"name":"White-winged black tern","category":"Blue"},
+{"id":3,"name":"Chipmunk, least","category":"Turquoise"},
+{"id":4,"name":"Stork, marabou","category":"Green"},
+{"id":5,"name":"Helmeted guinea fowl","category":"Goldenrod"},
+{"id":6,"name":"Gull, southern black-backed","category":"Maroon"},
+{"id":7,"name":"Langur, common","category":"Purple"},
+{"id":8,"name":"Cape fox","category":"Turquoise"},
+{"id":9,"name":"Sheep, stone","category":"Orange"},
+{"id":10,"name":"Gray rhea","category":"Red"},
+{"id":11,"name":"Pine snake (unidentified)","category":"Teal"},
+{"id":12,"name":"Leopard","category":"Violet"},
+{"id":13,"name":"Sheathbill, snowy","category":"Blue"},
+{"id":14,"name":"Common zorro","category":"Puce"},
+{"id":15,"name":"Corella, long-billed","category":"Purple"},
+{"id":16,"name":"Land iguana","category":"Orange"},
+{"id":17,"name":"Pied crow","category":"Turquoise"},
+{"id":18,"name":"Lemur, brown","category":"Khaki"},
+{"id":19,"name":"Red lava crab","category":"Goldenrod"},
+{"id":20,"name":"Snake, buttermilk","category":"Mauv"}
+]
+}
